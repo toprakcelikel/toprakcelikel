@@ -19,6 +19,9 @@ Student engineer building systems that connect software, electronics, and the ph
 - **Elcano Autonomous Trike Lab**, UW Bothell (Prof. Tyler Folsom), Mar 2026–present
 - **Engineering Intern**, Pololu Robotics & Electronics, May–Jul 2025: Dobot automation with a Raspberry Pi controller, test fixtures
 - **MIT Beaver Works Summer Institute**, Basics of ASICs, Summer 2026
+- **Mission to Mars: Build Your Own Robotic Rover**, University of Washington, Aug 2025
+- **Harvard AI Bootcamp**, Jun 2024
+- **Junior Tutor**, Russian School of Mathematics, Dec 2023–present
 
 ## Tools
 C/C++ (Arduino Due, CAN) · Python · PyTorch / YOLO · ROS 2 / Gazebo · Raspberry Pi · SolidWorks · KiCad · Altium
