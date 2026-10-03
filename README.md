@@ -12,7 +12,7 @@ Student engineer building systems that connect software, electronics, and the ph
 |---|---|---|
 | Elcano Autonomous Trike (UW Bothell) | Drive-by-wire firmware and hardware-in-the-loop testing: PID steering, waypoint navigation, CAN/SD logging, safety fixes. 14 merged PRs | [Code](https://github.com/elcano) · [My PRs](https://github.com/search?q=is%3Apr+author%3Atoprakcelikel+org%3Aelcano+is%3Amerged&type=pullrequests) · [Demo](https://www.youtube.com/shorts/LvJzF50SOcU) |
 | ROS 2 Navigation in Gazebo | DFS target search; LiDAR navigation with noise and obstacles | [Code](https://github.com/toprakcelikel/DFS-Gazebo) · [DFS demo](https://youtu.be/Dh8gGyCYK_w) · [LiDAR demo](https://youtu.be/w96cpVEWMKU) |
-| VEX V5 Robot Code | Competition code, VEX World Championship 2026 | [Code](https://github.com/toprakcelikel/10P-Push-Back-Code) |
+| VEX V5 Robot Code | Competition code; qualified for the VEX World Championship 2026 | [Code](https://github.com/toprakcelikel/10P-Push-Back-Code) |
 | DAO Challenge | Team challenge platform with live leaderboard | [Live](https://dao-challenge.azurewebsites.net/) |
 
 ## Experience & Programs
@@ -27,4 +27,4 @@ Student engineer building systems that connect software, electronics, and the ph
 C/C++ (Arduino Due, CAN) · Python · PyTorch / YOLO · ROS 2 / Gazebo · Raspberry Pi · SolidWorks · KiCad · Altium
 
 ## Selected Honors
-USAMO Qualifier (2026) · USACO Gold · VEX V5 & FRC World Championships
+USAMO Qualifier (2026) · USACO Gold · VEX V5 World Championship Qualifier (2026) · FRC World Championship Qualifier (2025)
