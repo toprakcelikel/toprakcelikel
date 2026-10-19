@@ -10,7 +10,7 @@ Student engineer building systems that connect software, electronics, and the ph
 ## Featured Projects
 | Project | What I did | Links |
 |---|---|---|
-| Elcano Autonomous Trike (UW Bothell) | Drive-by-wire firmware and hardware-in-the-loop testing: PID steering, waypoint navigation, CAN/SD logging, safety fixes. 14 merged PRs | [Code](https://github.com/elcano) · [My PRs](https://github.com/search?q=is%3Apr+author%3Atoprakcelikel+org%3Aelcano+is%3Amerged&type=pullrequests) · [Demo](https://www.youtube.com/shorts/LvJzF50SOcU) |
+| Elcano Autonomous Trike (UW Bothell) | Waypoint navigation (Arduino + Jetson Nano over USB-CAN), automated hardware-in-the-loop test runner, and fixes/features to the existing drive-by-wire firmware: closed-loop steering, CAN/SD logging, safety fixes. 16 merged PRs | [Code](https://github.com/elcano) · [My PRs](https://github.com/search?q=is%3Apr+author%3Atoprakcelikel+org%3Aelcano+is%3Amerged&type=pullrequests) · [Jetson nav](https://github.com/elcano/Bridge/pull/23) · [Demo](https://www.youtube.com/shorts/LvJzF50SOcU) |
 | CNN Accelerator (MIT Beaver Works) | Team-built ASIC CNN accelerator in SystemVerilog. Placed 2nd of 12 teams; co-authored a poster accepted at IEEE MIT URTC 2026 | [Code](https://github.com/nityashah1811/CNNAccelTeam9) |
 | ROS 2 Navigation in Gazebo | DFS target search; LiDAR navigation with noise and obstacles | [Code](https://github.com/toprakcelikel/DFS-Gazebo) · [DFS demo](https://youtu.be/Dh8gGyCYK_w) · [LiDAR demo](https://youtu.be/w96cpVEWMKU) |
 | VEX V5 Robot Code | Competition code; qualified for the VEX World Championship 2026 | [Code](https://github.com/toprakcelikel/10P-Push-Back-Code) |
